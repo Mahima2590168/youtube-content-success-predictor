@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 YouTube Content Success Predictor
 
 A Machine Learning project that predicts whether a YouTube video will perform well based on its title, duration, and metadata.
@@ -38,3 +39,7 @@ Custom YouTube dataset with:
 ```bash
 pip install -r requirements.txt
 python -m textblob.download_corpora
+=======
+# youtube-content-success-predictor
+ML project to predict YouTube video success
+>>>>>>> b04045174573d7edbd55afcfd27886824f4d69a7
